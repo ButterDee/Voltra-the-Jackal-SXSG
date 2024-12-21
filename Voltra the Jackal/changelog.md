@@ -1,3 +1,10 @@
+## Voltra the Jackal v0.6.0
+
+- Splash Text for the Spark Powers have been added!
+- Recolored Chaos Spear and Spark Spear.
+- Removed the flames on Voltra's classic shoes.
+- Woomy?
+
 ## Voltra the Jackal v0.5.5
 
 - Custom line trail colors are now in place!

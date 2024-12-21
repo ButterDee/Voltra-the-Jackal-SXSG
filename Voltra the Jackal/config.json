@@ -1,0 +1,44 @@
+{
+	"Groups": [
+	   {
+		  "Name": "main",
+		  "DisplayName": "Options",
+		  "Elements": [
+			 {
+				"Name": "IncludeDir1",
+				"DisplayName": "Voltra Skin Options",
+				"Description": [
+				   "Swap between Voltra's Shoes or Shadow's skating shoes, adjusted to fit her color scheme"
+				],
+				"Type": "VoltraSkins",
+				"MinValue": null,
+				"MaxValue": null,
+				"DefaultValue": "skate_shoes"
+			 }
+		  ]
+	   }
+	],
+	
+	"Enums": {
+	   "VoltraSkins": 
+	   [
+ 
+		  {
+			 "DisplayName": "Shadow Shoes",
+			 "Value": "skate_shoes",
+			 "Description": [
+				"Uses a custom version of Shadow's shoes, adjusted for Voltra's color scheme. \nModel from the Essential Shadow Enhancements by ZEROES_07, Matt Crafts and Pierrot."
+			 ]
+		  },
+ 
+		  {
+			 "DisplayName": "Original Shoes",
+			 "Value": "normal_shoes",
+			 "Description": [
+				"The original shoes for Voltra."
+			 ]
+		  }
+	   ]
+	},
+	"IniFile": "mod.ini"
+ }

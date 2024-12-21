@@ -1,0 +1,15 @@
+add normal_shoes/raw/character/shadow.pac
+add raw/misc/trr_common_texture.pac
+add raw/text_caption_en.pac
+add raw/text_common_en.pac
+add raw/text_Multi_Platform_en.pac
+add raw/EffectCommon.pac
+add skate_shoes/raw/character/shadow.pac
+
+
+
+add VoltraGensCredits.txt
+add changelog.md
+add README.md
+add mod_version.ini
+add mod.ini

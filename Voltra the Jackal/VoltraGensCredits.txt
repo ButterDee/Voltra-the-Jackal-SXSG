@@ -1,0 +1,12 @@
+Credits:
+
+ButterDee: Main developer, ported the model from Frontiers to Shadow Generations
+Snackpigeon: Creator of Voltra, and assisted with subtitle editing
+Bianca: Made the model for Voltra
+
+Base Mods:
+
+Essential Shadow Enhancements mod by ZEROES_07, Matt Crafts and Pierrot
+Blue Chaos Control by MajoraOX
+SA2 Style Skating by Anonymaus
+Terios Run by Strike
